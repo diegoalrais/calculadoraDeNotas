@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculadoraDeNotas</string>
+    <string name="Edt_nota1">Nota 1</string>
+    <string name="edt_nota2">Nota 2</string>
+    <string name="edt_nota3">Nota 3</string>
+    <string name="btn_calcular">Calcular</string>
+</resources>
