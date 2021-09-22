@@ -10,5 +10,6 @@
 4. Fiz alterações de espaçamento entre os botões na activity_main.xml;
 5. Allterei as cores do app em comparação com o projeto base.
 
+[![Linkedin Badge](https://img.shields.io/badge/-Diego_Morais-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-morais-9666a61a9)](https://www.linkedin.com/in/diego-morais-9666a61a9)
 
 [Apresentação](https://youtu.be/a7ovkqhweSQ)
